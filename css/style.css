@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Kalam&display=swap');
+
+body {
+  background-image: url("/images/icecream_background.jpg");
+  background-color: lightblue;
+  font-family: 'Kalam', cursive;
+  text-align: center;
+}
+
+h1 {
+  color: indigo;
+  font-size: 18pt;
+  font-family: Georgia;
+}
+
+p {
+  color: #010C7C;
+  background-color: white;
+  display: block;
+  font-family:
+}
+
+a {
+  color: #FB5B3F;
+  text-decoration: none;
+}
+
+a:visited{
+  color:purple;
+}
+
+a:hover{
+  color:lightblue;
+}
+
+a:active{
+  color:darkblue;
+}
+
+a:hover {
+  color: black;
+  background-color: yellow;
+}
